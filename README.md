@@ -39,6 +39,17 @@ Você pode acessar o projeto diretamente pelo GitHub Pages:
 
 👉 [Clique aqui para acessar](https://ghutttyerrez.github.io/zingen/)
 
+✍️ Autor
+Feito com dedicação por Jeferson Gutierrez Garai — entusiasta da tecnologia, em transição de carreira para o desenvolvimento web, sempre buscando evoluir e compartilhar conhecimento.
+
+🌍 Sidrolândia-MS | Brasil
+
+🚀 Em formação: Análise e Desenvolvimento de Sistemas
+
+📚 Estudando HTML, CSS e JavaScript na Rocketseat
+
+🤝 Aberto a conexões e oportunidades remotas
+
 Ou clonar e rodar localmente:
 
 ```bash
